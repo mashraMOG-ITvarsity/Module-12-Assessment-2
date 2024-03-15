@@ -1,0 +1,122 @@
+body{
+    margin:0;
+    padding:0px;
+    font-family: Helvetica;
+    background-color: gainsboro;
+}
+
+table{
+    margin-left:50px;
+}
+
+#contact{
+    font-size: 28px;
+    font-weight: 100;
+}
+
+#contact img{
+    padding-bottom:20px;
+
+}
+
+h1{
+    border: 1px solid rgb(204, 199, 199);
+    padding:10px;
+    background-color: rgba(2, 15, 39, 0.671);
+    text-align: center;
+    font-family: cursive;
+    color:aliceblue;
+    font-style: italic;
+}
+
+h5{
+    padding-left:30px;
+}
+
+tr{
+    border: 1px solid grey;
+}
+
+td{
+    border-bottom: 1px solid grey;
+}
+
+#refresh{
+    padding:10px;
+    margin:10px 20px 30px 50px;
+    background-color: rgba(2, 15, 39, 0.671);
+    border-radius: 10px;
+    border-color: rgba(2, 15, 39, 0.671);
+    color:rgb(226, 226, 226);
+}
+
+/*===========CONTACT page==========*/
+#addContact{
+    padding:10px;
+    margin:10px 10px 30px 10px;
+    background-color: rgba(2, 15, 39, 0.671);
+    border-radius: 10px;
+    border-color: rgba(2, 15, 39, 0.671);
+    color:rgb(226, 226, 226);
+}
+
+#editform{
+    margin-top:10px;
+    margin-left: 350px;
+    font-family: Helvetica;
+    text-transform:capitalize;
+    padding:2px;
+}
+
+
+#avatarImage{
+    margin-left:400px;
+}
+
+input {
+    margin-bottom: 10px;
+    font-family: cursive;
+    font-style:italic;
+    background-color:rgba(2, 15, 39, 0.671);
+    color:gainsboro;
+}
+
+#homeLink{
+    margin-left:400px;
+    margin-right:20px;
+    padding:5px;
+    font-family: Helvetica;
+    color:gainsboro;
+    background-color: rgba(7, 34, 83, 0.671); 
+}
+
+#homeLink:hover{
+    color: rgba(2, 15, 39, 0.671);
+    background-color: gainsboro;
+}
+
+#editContact{
+    margin-right:20px;
+    padding:5px;
+    font-family: Helvetica;
+    color:gainsboro;
+    background-color: rgba(7, 34, 83, 0.671); 
+}
+
+#editContact:hover{
+    color: rgba(2, 15, 39, 0.671);
+    background-color: gainsboro;
+}
+
+#deleteContact{
+    margin-right:20px;
+    padding:5px;
+    font-family: Helvetica;
+    color:gainsboro;
+    background-color: rgba(7, 34, 83, 0.671); 
+}
+
+#deleteContact:hover{
+    color: rgba(2, 15, 39, 0.671);
+    background-color: gainsboro;
+}
